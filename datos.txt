@@ -1,5 +1,6 @@
-id,nombre,importe
-1,Juan,100
-2,Ana,200
-3,Pedro,150
-4,Lucia,300
+id,nombre,edad,ciudad,importe
+1,Juan Perez,28,Lima,120
+2,Ana Torres,34,Arequipa,200
+3,Carlos Ruiz,45,Trujillo,150
+4,Lucia Gomez,22,Cusco,180
+5,Pedro Salazar,39,Piura,210

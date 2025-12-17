@@ -1,0 +1,4 @@
+id,nombre,importe
+1,Juan,100
+2,Ana,200
+3,Pedro,150

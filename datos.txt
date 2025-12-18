@@ -1,17 +1,14 @@
 id,nombre,edad,ciudad,importe
 1,Juan Perez,28,Lima,120
-2,Ana Torres,34,Arequipa,200
+2,Ana Torres,treinta y cuatro,Arequipa,200
 3,Carlos Ruiz,45,Trujillo,150
-4,Lucia Gomez,22,Cusco,180
-5,Pedro Salazar,39,Piura,210
-6,María López,31,Chiclayo,175
+3,Carlos Ruiz,45,Trujillo,150
+4,Lucia Gomez,22,,180
+5,Pedro Salazar,39,Piura,
+6,Maria Lopez,-31,Chiclayo,175
 7,Jorge Medina,27,Iquitos,130
-8,Rosa Castillo,42,Huaraz,220
-9,Luis Fernández,36,Tacna,195
-10,Patricia Ríos,29,Puno,160
-11,Miguel Quispe,48,Ayacucho,240
-12,Sandra Núñez,33,Huancayo,185
-13,Renzo Valdivia,26,Lima,140
-14,Carmen Soto,41,Moquegua,205
-15,Diego Paredes,35,Tumbes,190
-
+8,Rosa Castillo,42,Huaraz,doscientos veinte
+9,Luis Fernandez,36,Tacna,195
+10,,29,Puno,160
+11,Diego Paredes,150,Lima,190
+12,Sandra Núñez,33,Huancayo,-50
